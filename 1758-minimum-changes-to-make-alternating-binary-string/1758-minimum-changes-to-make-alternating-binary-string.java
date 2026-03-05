@@ -1,21 +1,12 @@
 class Solution {
     public int minOperations(String s) {
+        int count = 0;
+        int n = s.length();
 
-        int startWith0 = 0;
-        int startWith1 = 0;
-
-        for (int i = 0; i < s.length(); i++) {
-
-            if (i % 2 == 0) { // even index
-                if (s.charAt(i) != '0') startWith0++;
-                if (s.charAt(i) != '1') startWith1++;
-            } 
-            else { // odd index
-                if (s.charAt(i) != '1') startWith0++;
-                if (s.charAt(i) != '0') startWith1++;
-            }
+        for (int i = 0; i < n; i++) {
+            count += (s.charAt(i) ^ i) & 1;
         }
 
-        return Math.min(startWith0, startWith1);
+        return Math.min(count, n - count);
     }
 }
