@@ -25,4 +25,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0344-reverse-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 <!---LeetCode Topics End-->
