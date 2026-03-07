@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0344-reverse-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Sliding Window
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
