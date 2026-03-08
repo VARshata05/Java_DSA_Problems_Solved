@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0704-binary-search) |
 | [1672-richest-customer-wealth](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1920-build-array-from-permutation) |
+| [1980-find-unique-binary-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1980-find-unique-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -34,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
+| [1980-find-unique-binary-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
