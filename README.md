@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0509-fibonacci-number) |
 | [1323-maximum-69-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1323-maximum-69-number) |
 ## Binary Search
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0509-fibonacci-number) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Sliding Window
@@ -88,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
