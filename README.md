@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0509-fibonacci-number) |
 | [1323-maximum-69-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1323-maximum-69-number) |
 ## Binary Search
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
