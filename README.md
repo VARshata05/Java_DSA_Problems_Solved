@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0326-power-of-three) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0509-fibonacci-number) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -104,5 +106,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
