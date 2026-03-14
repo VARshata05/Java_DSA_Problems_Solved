@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0344-reverse-string) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
