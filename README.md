@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -118,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
