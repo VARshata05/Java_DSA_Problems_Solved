@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0217-contains-duplicate) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0242-valid-anagram) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0739-daily-temperatures) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
