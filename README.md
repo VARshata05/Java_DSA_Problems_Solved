@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0739-daily-temperatures) |
 | [1672-richest-customer-wealth](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1672-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1980-find-unique-binary-string) |
 | [3643-flip-square-submatrix-vertically](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3643-flip-square-submatrix-vertically) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1672-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3643-flip-square-submatrix-vertically) |
 ## Two Pointers
 |  |
