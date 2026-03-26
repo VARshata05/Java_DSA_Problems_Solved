@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1980-find-unique-binary-string) |
 | [2906-construct-product-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3643-flip-square-submatrix-vertically) |
 ## Two Pointers
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0496-next-greater-element-i) |
 | [1980-find-unique-binary-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1980-find-unique-binary-string) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -189,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3548-equal-sum-grid-partition-ii) |
 <!---LeetCode Topics End-->
