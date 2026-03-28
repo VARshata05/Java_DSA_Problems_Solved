@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0498-diagonal-traverse) |
 | [0704-binary-search](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0739-daily-temperatures) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0498-diagonal-traverse) |
 | [1920-build-array-from-permutation](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1920-build-array-from-permutation) |
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0498-diagonal-traverse) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
