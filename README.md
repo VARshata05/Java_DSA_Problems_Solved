@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0498-diagonal-traverse) |
 | [0704-binary-search](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0739-daily-temperatures) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0509-fibonacci-number) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1323-maximum-69-number) |
 ## Binary Search
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1323-maximum-69-number) |
 ## Prefix Sum
 |  |
