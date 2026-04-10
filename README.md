@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0485-max-consecutive-ones) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0238-product-of-array-except-self) |
 | [2906-construct-product-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
