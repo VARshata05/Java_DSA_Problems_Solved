@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0035-search-insert-position) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0283-move-zeroes) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0011-container-with-most-water) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1323-maximum-69-number) |
 ## Prefix Sum
