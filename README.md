@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0217-contains-duplicate) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0498-diagonal-traverse) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1672-richest-customer-wealth) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0242-valid-anagram) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0079-word-search) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1980-find-unique-binary-string) |
 ## Greedy
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
