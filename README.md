@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0344-reverse-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0013-roman-to-integer) |
+| [0208-implement-trie-prefix-tree](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0208-implement-trie-prefix-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0208-implement-trie-prefix-tree) |
 ## Tree
 |  |
 | ------- |
