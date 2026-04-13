@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0217-contains-duplicate) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0078-subsets) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1980-find-unique-binary-string) |
 ## Greedy
