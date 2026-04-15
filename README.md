@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0079-word-search) |
+| [0120-triangle](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0217-contains-duplicate) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0509-fibonacci-number) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
