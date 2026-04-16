@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0509-fibonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1323-maximum-69-number) |
+| [1486-xor-operation-in-an-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1009-complement-of-base-10-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1486-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
