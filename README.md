@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0485-max-consecutive-ones) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1009-complement-of-base-10-integer) |
 ## Dynamic Programming
