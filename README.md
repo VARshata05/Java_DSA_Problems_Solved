@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0120-triangle) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1323-maximum-69-number) |
