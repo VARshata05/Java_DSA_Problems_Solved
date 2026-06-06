@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1980-find-unique-binary-string) |
 | [2460-apply-operations-to-an-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2460-apply-operations-to-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0238-product-of-array-except-self) |
+| [2574-left-and-right-sum-differences](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
