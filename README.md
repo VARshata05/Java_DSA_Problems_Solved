@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1470-shuffle-the-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1470-shuffle-the-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
