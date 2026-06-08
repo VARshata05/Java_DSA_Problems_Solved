@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1980-find-unique-binary-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2906-construct-product-matrix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0498-diagonal-traverse) |
 | [1920-build-array-from-permutation](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0876-middle-of-the-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2460-apply-operations-to-an-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
