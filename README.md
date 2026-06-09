@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0344-reverse-string) |
+| [1143-longest-common-subsequence](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0918-maximum-sum-circular-subarray) |
+| [1143-longest-common-subsequence](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1143-longest-common-subsequence) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
