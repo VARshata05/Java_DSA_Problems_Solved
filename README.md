@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3643-flip-square-submatrix-vertically) |
+| [3689-maximum-total-subarray-value-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3689-maximum-total-subarray-value-i) |
 ## Simulation
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1323-maximum-69-number) |
+| [3689-maximum-total-subarray-value-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3689-maximum-total-subarray-value-i) |
 ## Prefix Sum
 |  |
 | ------- |
