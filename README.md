@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0498-diagonal-traverse) |
+| [0518-coin-change-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0739-daily-temperatures) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0518-coin-change-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1143-longest-common-subsequence) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
