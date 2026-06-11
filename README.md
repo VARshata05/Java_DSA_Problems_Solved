@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1049-last-stone-weight-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1049-last-stone-weight-ii) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1470-shuffle-the-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1470-shuffle-the-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0518-coin-change-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0918-maximum-sum-circular-subarray) |
 | [1049-last-stone-weight-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1049-last-stone-weight-ii) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1143-longest-common-subsequence](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1143-longest-common-subsequence) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1323-maximum-69-number) |
 | [3689-maximum-total-subarray-value-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3689-maximum-total-subarray-value-i) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0739-daily-temperatures) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Design
 |  |
 | ------- |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0739-daily-temperatures) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Trie
 |  |
 | ------- |
