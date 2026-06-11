@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1486-xor-operation-in-an-array) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0938-range-sum-of-bst) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0938-range-sum-of-bst) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
