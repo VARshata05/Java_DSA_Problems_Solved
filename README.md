@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1486-xor-operation-in-an-array) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1486-xor-operation-in-an-array) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0938-range-sum-of-bst) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -292,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0733-flood-fill) |
 | [0938-range-sum-of-bst](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0938-range-sum-of-bst) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
