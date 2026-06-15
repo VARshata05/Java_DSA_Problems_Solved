@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1486-xor-operation-in-an-array) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Dynamic Programming
 |  |
