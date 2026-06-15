@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0733-flood-fill) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
