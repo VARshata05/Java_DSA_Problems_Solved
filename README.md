@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0496-next-greater-element-i) |
 | [1980-find-unique-binary-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1980-find-unique-binary-string) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/1757-recyclable-and-low-fat-products) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/VARshata05/Java_DSA_Problems_Solved/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
